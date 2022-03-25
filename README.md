@@ -16,8 +16,8 @@ comparing 3rd-order IA statistics from simulations and analytic models
 - Bispectrum (Susan Pyne)
 ## predictions
 - "NLA" Bispectrum (Susan Pyne, Anik Halder, Laurence Gong)
-- Bispectrum-3PCF transform (Laila Linke, Sven Heydenreich)
+- FT: Bispectrum -> 3PCF (Laila Linke, Sven Heydenreich)
 
 
-## milstone:
+## milstones:
 - 1) measure GGI terms in MICE
