@@ -21,3 +21,4 @@ comparing 3rd-order IA statistics from simulations and analytic models
 
 ## milstones:
 - 1) measure GGI terms in MICE
+  - use LRGs in 5 spetroscopic redshift bins (0.0<z<1.0)
